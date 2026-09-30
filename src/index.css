@@ -1,0 +1,8 @@
+body{margin:0;font-family:system-ui,sans-serif;background:#eef2f6;color:#14202b}
+.app{max-width:900px;margin:0 auto;padding:2rem 1rem}
+.row{display:flex;gap:1rem;flex-wrap:wrap}
+.card{background:#fff;border:1px solid #cfd8e2;border-radius:10px;padding:1.2rem;width:220px}
+.card h2{margin:0 0 .5rem;font-size:1.2rem}
+.liked{color:#c0264b;font-weight:600}
+.notliked{color:#54657a}
+button{cursor:pointer;border:0;background:#0f6e8c;color:#fff;padding:.5rem 1rem;border-radius:6px;font:inherit}
